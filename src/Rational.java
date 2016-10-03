@@ -1,3 +1,10 @@
+/** A class to represent a rational number
+    with a numerator and denominator
+
+    @author P. Conrad for CS56 F16
+
+    */
+
 public class Rational {
 
     private int num;
